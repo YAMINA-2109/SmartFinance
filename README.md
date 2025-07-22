@@ -128,15 +128,16 @@ npm run dev
 ## 🖥️ Demo Screenshots
 
 ### 📄 Upload & Summary       
-[](demo/demo-1.PNG)
+![Upload & Summary](demo/demo-1.PNG)
 
- ### 📊 Financial Dashboard          |
- [](demo/demo-2.PNG)
- [](demo/demo-3.PNG)
- [](demo/demo-5.PNG)
+### 📊 Financial Dashboard 
+![Financial Chart 1](demo/demo-2.PNG)
+![Financial Chart 2](demo/demo/demo-3.PNG)
+![Financial Chart 3](demo/demo/demo-5.PNG)
 
 ### 💬 Chat Interface
-[](demo/demo-4.PNG) 
+![Chat Interface](demo/demo-4.PNG)
+
 
 
 
