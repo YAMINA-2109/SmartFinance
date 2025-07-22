@@ -1,0 +1,16 @@
+Field,Value
+revenue,41.7M
+net_income,"1,705"
+gross_margin,71%
+operating_cash_flow,0.7M
+free_cash_flow,-4.6M
+EPS,0.04
+non_GAAP_EPS,0.18
+EBITDA,not provided
+EBITDA_margin,not provided
+CAPEX,5.3M
+cash_and_equivalents,not provided
+R&D_expenses,not provided
+guidance,"{'revenue_next_quarter': 'not provided', 'EPS_next_quarter': 'not provided'}"
+segment_revenue,"{'Product': 'not provided', 'Services': {'Analytics': '38.1M', 'Integrated yield ramp': '3.5M'}}"
+geographic_breakdown,"{'USA': 'not provided', 'EMEA': 'not provided', 'APAC': 'not provided'}"
