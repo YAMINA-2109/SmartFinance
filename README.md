@@ -127,9 +127,18 @@ npm run dev
 
 ## 🖥️ Demo Screenshots
 
-| 📄 Upload & Summary         | 💬 Chat Interface  - 1   | 💬 Chat Interface  - 2        | 📊 Financial Dashboard          |
-| --------------------------- | ------------------------- | ------------------------------ |------------------------------  |
-| ![](demo/demo-1.PNG)        | ![](demo/demo-2.PNG) | ![](demo/demo-3.PNG) | ![](demo/demo-4.PNG) |
+### 📄 Upload & Summary       
+[](demo/demo-1.PNG)
+
+ ### 📊 Financial Dashboard          |
+ [](demo/demo-2.PNG)
+ [](demo/demo-3.PNG)
+ [](demo/demo-5.PNG)
+
+### 💬 Chat Interface
+[](demo/demo-4.PNG) 
+
+
 
 ---
 
