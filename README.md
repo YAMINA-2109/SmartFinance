@@ -129,7 +129,7 @@ npm run dev
 
 | 📄 Upload & Summary         | 💬 Chat Interface  - 1   | 💬 Chat Interface  - 1        | 📊 Financial Dashboard          |
 | --------------------------- | ------------------------- | ------------------------------ |------------------------------  |
-| ![](demo/demo-1.png)        | ![](demo/demo-2.png) | ![](demo/demo-3.png) | ![](demo/demo-4.png) |
+| ![](demo/demo-1.PNG)        | ![](demo/demo-2.PNG) | ![](demo/demo-3.PNG) | ![](demo/demo-4.PNG) |
 
 ---
 
