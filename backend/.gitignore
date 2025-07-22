@@ -6,6 +6,10 @@ __pycache__/
 # Variables d'environnement
 .env
 
+# Uploaded files
+uploaded_files/
+downloads/
+
 # Logs
 logs/
 *.log
