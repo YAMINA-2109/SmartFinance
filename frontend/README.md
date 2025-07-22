@@ -1,4 +1,3 @@
----
 
 ## 💼 SmartFinance Analyzer – Frontend App
 
